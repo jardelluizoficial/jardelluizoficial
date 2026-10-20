@@ -1,31 +1,53 @@
-# Olá! Eu sou o Jardel 👋
+<h1 align="center">Jardel Luiz</h1>
 
-Estudante de tecnologia, cursando Computação em Nuvem na Anhanguera.
+<p align="center">
+  <samp>COMPUTAÇÃO EM NUVEM · REDES · LABORATÓRIOS</samp>
+</p>
 
-Utilizo este espaço para compartilhar meus estudos, trabalhos acadêmicos e projetos pessoais desenvolvidos em ambientes de teste. Aprendo na prática, montando laboratórios, explorando configurações e documentando os resultados.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jardelluizcloud/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/jardelluizoficial/laboratorio-suporte-n1">Projetos pessoais</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/jardelluizoficial/trabalhos-praticos-faculdade">Trabalhos acadêmicos</a>
+</p>
 
-## 📚 Estudos e práticas
+---
 
-- Redes de computadores e endereçamento IPv4.
-- Virtualização com VirtualBox.
-- Windows Server e Active Directory.
-- Usuários, grupos, permissões e políticas de grupo.
-- Documentação de procedimentos e testes.
+### Sobre
 
-## 🛠️ Projetos pessoais
+Sou estudante de tecnologia e curso **Computação em Nuvem na Anhanguera**.
 
-### [Laboratório com Windows Server e Active Directory](https://github.com/jardelluizoficial/laboratorio-suporte-n1)
+Este perfil reúne meus estudos, trabalhos acadêmicos e projetos pessoais desenvolvidos em ambientes de teste. Aprendo montando laboratórios, explorando configurações e verificando os resultados.
 
-Ambiente virtualizado com Windows Server e Windows 11 para praticar criação de usuários, gerenciamento de grupos, compartilhamento de pastas e aplicação de GPOs.
+Documento os procedimentos, as dificuldades e os aprendizados para poder revisitar e reproduzir cada prática.
 
-## 🎓 Trabalhos acadêmicos
+### Em estudo
 
-### [Práticas da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+- **Redes de computadores:** IPv4, sub-redes, conectividade e simulações no Cisco Packet Tracer.
+- **Sistemas Windows:** Windows Server, Windows 11 e Active Directory.
+- **Administração de ambientes:** usuários, grupos, permissões, compartilhamentos e GPOs.
+- **Virtualização:** máquinas virtuais e ambientes de teste no VirtualBox.
 
-Atividades desenvolvidas durante a graduação, organizadas por disciplina, com procedimentos, cálculos, testes e capturas de tela.
+### Projetos pessoais
 
-O primeiro laboratório documentado apresenta uma rede local no Cisco Packet Tracer, com configuração IPv4 e teste de conectividade.
+**[Laboratório com Windows Server e Active Directory](https://github.com/jardelluizoficial/laboratorio-suporte-n1)**
 
-## 🔗 Contato
+Ambiente virtualizado para praticar gerenciamento de usuários e grupos, redefinição de senhas, permissões de pastas e mapeamento de unidade por GPO.
 
-[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/)
+Inclui a simulação e a resolução de um incidente de unidade de rede, com procedimentos e capturas de tela.
+
+### Trabalhos acadêmicos
+
+**[Práticas da graduação em Computação em Nuvem](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)**
+
+Atividades organizadas por disciplina, com documentação dos procedimentos, cálculos e resultados.
+
+O primeiro laboratório apresenta uma rede local com dois computadores e um switch no Cisco Packet Tracer, configuração IPv4 e validação da comunicação com ping.
+
+---
+
+<p align="center">
+  <samp>estudar · experimentar · documentar</samp>
+</p>
+
