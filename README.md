@@ -14,7 +14,7 @@ Aqui documento o que pratico: configuração de redes, administração de usuár
 
 | Área | O que você encontra | Acessar |
 | --- | --- | --- |
-| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo e uma unidade de rede ausente. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) |
+| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo, unidade de rede ausente e diagnóstico de DNS. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) |
 | **Redes — Cisco Networking Academy** | Atividades no Packet Tracer: rede doméstica, DHCP, Wi-Fi e testes de acesso a um servidor web. | [Laboratórios Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) |
 | **Computação em Nuvem — Faculdade** | Práticas de Redes de Computadores: rede local, comunicação entre sub-redes e diagnóstico de gateway. | [Trabalhos acadêmicos](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade) |
 
@@ -24,9 +24,10 @@ Aqui documento o que pratico: configuração de redes, administração de usuár
 
 **Quer conhecer minha prática de suporte?** Veja o [laboratório de Active Directory e Windows](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/active-directory), com os exercícios e as capturas organizados por assunto.
 
-**Quer ir direto ao diagnóstico?** Estes dois casos mostram o sintoma, os testes, a correção e a validação:
+**Quer ir direto ao diagnóstico?** Estes casos mostram o sintoma, os testes, a correção e a validação:
 
 - [Unidade de rede ausente: acesso direto ao compartilhamento e recuperação do mapeamento](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/blob/main/active-directory/README.md#incidente-unidade-de-rede).
+- [DNS incorreto: ping funciona, consulta de nome falha e a configuração do cliente é corrigida](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/diagnostico-dns).
 - [Gateway incorreto: comunicação local funciona, mas outra sub-rede fica inacessível](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade/blob/main/redes-de-computadores/02-tcpip-sub-redes/docs/incidente-gateway.md).
 
 ## O que estou estudando
