@@ -6,7 +6,7 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou construindo min
 
 Aqui documento o que pratico: configuração de redes, administração de usuários, testes de acesso e investigação de falhas. Cada laboratório reúne o cenário, os procedimentos e as evidências dos resultados.
 
-[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/) · [Laboratórios de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/) · [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
 ---
 
@@ -14,7 +14,7 @@ Aqui documento o que pratico: configuração de redes, administração de usuár
 
 | Área | O que você encontra | Acessar |
 | --- | --- | --- |
-| **Suporte N1 e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo e uma unidade de rede ausente. | [Laboratório de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) |
+| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo e uma unidade de rede ausente. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) |
 | **Redes — Cisco Networking Academy** | Atividades no Packet Tracer: rede doméstica, DHCP, Wi-Fi e testes de acesso a um servidor web. | [Laboratórios Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) |
 | **Computação em Nuvem — Faculdade** | Práticas de Redes de Computadores: rede local, comunicação entre sub-redes e diagnóstico de gateway. | [Trabalhos acadêmicos](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade) |
 
