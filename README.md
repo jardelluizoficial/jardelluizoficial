@@ -6,7 +6,7 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou construindo min
 
 Aqui documento o que pratico: configuração de redes, administração de usuários, testes de acesso e investigação de falhas. Cada laboratório reúne o cenário, os procedimentos e as evidências dos resultados.
 
-[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/) · [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/) · [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
 
 ---
 
@@ -14,7 +14,7 @@ Aqui documento o que pratico: configuração de redes, administração de usuár
 
 | Área | O que você encontra | Acessar |
 | --- | --- | --- |
-| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo e uma unidade de rede ausente. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorio-suporte-n1) |
+| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo e uma unidade de rede ausente. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) |
 | **Redes — Cisco Networking Academy** | Atividades no Packet Tracer: rede doméstica, DHCP, Wi-Fi e testes de acesso a um servidor web. | [Laboratórios Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) |
 | **Computação em Nuvem — Faculdade** | Práticas de Redes de Computadores: rede local, comunicação entre sub-redes e diagnóstico de gateway. | [Trabalhos acadêmicos](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade) |
 
@@ -22,11 +22,11 @@ Aqui documento o que pratico: configuração de redes, administração de usuár
 
 **Está começando em redes?** O laboratório de [dois computadores e um switch](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade/tree/main/redes-de-computadores/01-lan-packet-tracer) mostra uma rede local simples, do cabeamento ao teste de comunicação.
 
-**Quer conhecer minha prática de suporte?** Veja o [laboratório de Active Directory e Windows](https://github.com/jardelluizoficial/laboratorio-suporte-n1/tree/main/active-directory), com os exercícios e as capturas organizados por assunto.
+**Quer conhecer minha prática de suporte?** Veja o [laboratório de Active Directory e Windows](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/active-directory), com os exercícios e as capturas organizados por assunto.
 
 **Quer ir direto ao diagnóstico?** Estes dois casos mostram o sintoma, os testes, a correção e a validação:
 
-- [Unidade de rede ausente: acesso direto ao compartilhamento e recuperação do mapeamento](https://github.com/jardelluizoficial/laboratorio-suporte-n1/blob/main/active-directory/README.md#incidente-unidade-de-rede).
+- [Unidade de rede ausente: acesso direto ao compartilhamento e recuperação do mapeamento](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/blob/main/active-directory/README.md#incidente-unidade-de-rede).
 - [Gateway incorreto: comunicação local funciona, mas outra sub-rede fica inacessível](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade/blob/main/redes-de-computadores/02-tcpip-sub-redes/docs/incidente-gateway.md).
 
 ## O que estou estudando
