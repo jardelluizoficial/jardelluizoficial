@@ -2,6 +2,8 @@
 
 **Em formação em TI · Suporte N1 · Redes de computadores**
 
+[![Assistir minha apresentação em vídeo](https://img.shields.io/badge/%E2%96%B6%20Assistir%20minha%20apresenta%C3%A7%C3%A3o%20em%20v%C3%ADdeo-0969DA?style=for-the-badge)](https://drive.google.com/file/d/1THR-5CCtD8p9I1PgMFpbbaqI0VCQlvGo/view?usp=sharing)
+
 Sou estudante de **Computação em Nuvem na Anhanguera** e estou construindo minha base em redes e suporte. Meu objetivo atual é conquistar a primeira oportunidade em **Suporte N1**, com interesse em trabalho remoto.
 
 Aqui documento o que pratico: configuração de redes, administração de usuários, testes de acesso e investigação de falhas. Cada laboratório reúne o cenário, os procedimentos e as evidências dos resultados.
