@@ -6,11 +6,12 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a
 
 ## Projetos em destaque
 
-| Projeto | O que pratiquei |
+| Repositório | O que você encontra |
 | --- | --- |
-| **[Suporte de TI e Windows](https://github.com/jardelluizoficial/sistemas-operacionais)** | Windows Server e Windows 11 em máquinas virtuais. Contas e permissões no Active Directory, mapeamento de unidade via GPO e diagnóstico de DNS. |
-| **[Redes com Cisco Packet Tracer](https://github.com/jardelluizoficial/redes-de-computadores)** | Montagem de redes locais, DHCP, Wi-Fi, NAT e testes de conectividade com `ping` e `tracert`. |
-| **[Trabalhos da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)** | Roteamento entre sub-redes IPv4 e IPv6 e análise de tráfego ICMP e HTTP, com topologias e evidências. |
+| **[Sistemas Operacionais](https://github.com/jardelluizoficial/sistemas-operacionais)** | Windows Server e Windows 11 em máquinas virtuais. Contas e permissões no Active Directory, mapeamento de unidade via GPO e diagnóstico de DNS. |
+| **[Redes de Computadores](https://github.com/jardelluizoficial/redes-de-computadores)** | Práticas no Cisco Packet Tracer com redes locais, DHCP, Wi-Fi, NAT e testes de conectividade com `ping` e `tracert`. |
+| **[Trabalhos Práticos da Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)** | Roteamento entre sub-redes IPv4 e IPv6 e análise de tráfego ICMP e HTTP, com topologias e evidências. |
+| **[Programação](https://github.com/jardelluizoficial/programacao)** | Estudos de lógica de programação e prática com a linguagem C. |
 
 ## Diagnósticos passo a passo
 
@@ -20,4 +21,4 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a
 ## O que estou estudando
 
 - **Redes e suporte:** Cisco Networking Academy, Windows, Active Directory e diagnóstico de conectividade.
-- **Programação:** lógica e exercícios em C. [Repositório de estudos](https://github.com/jardelluizoficial/programacao).
+- **Programação:** lógica e exercícios em C.
