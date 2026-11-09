@@ -1,45 +1,23 @@
-# Jardel Luiz
+<h1 align="center">Jardel Luiz</h1>
+<p align="center"><strong>Computação em Nuvem · Suporte de TI · Redes de Computadores</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/jardelluizcloud/">LinkedIn</a> · <a href="https://github.com/jardelluizoficial?tab=repositories">Repositórios</a></p>
 
-**Em formação em Cloud Computing · Buscando oportunidade em Suporte N1 · Estudando em casa Redes de computadores**
+Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a área de tecnologia, com foco em **Suporte Técnico N1**. Neste portfólio documento laboratórios de Windows e redes, da configuração inicial à validação dos testes.
 
-Sou estudante de **Computação em Nuvem na Anhanguera** e estou construindo minha base em redes e suporte. Meu objetivo atual é conquistar a primeira oportunidade em **Suporte N1**, com interesse em trabalho remoto.
+## Projetos em destaque
 
-Aqui documento o que pratico: configuração de redes, administração de usuários, testes de acesso e investigação de falhas. Cada laboratório reúne o cenário, os procedimentos e as evidências dos resultados.
+| Projeto | O que pratiquei |
+| --- | --- |
+| **[Suporte de TI e Windows](https://github.com/jardelluizoficial/sistemas-operacionais)** | Windows Server e Windows 11 em máquinas virtuais. Contas e permissões no Active Directory, mapeamento de unidade via GPO e diagnóstico de DNS. |
+| **[Redes com Cisco Packet Tracer](https://github.com/jardelluizoficial/redes-de-computadores)** | Montagem de redes locais, DHCP, Wi-Fi, NAT e testes de conectividade com `ping` e `tracert`. |
+| **[Trabalhos da faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)** | Roteamento entre sub-redes IPv4 e IPv6 e análise de tráfego ICMP e HTTP, com topologias e evidências. |
 
-[LinkedIn](https://www.linkedin.com/in/jardelluizcloud/) · [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) · [Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) · [Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)
+## Diagnósticos passo a passo
 
----
-
-## Explore os laboratórios
-
-| Área | O que você encontra | Acessar |
-| --- | --- | --- |
-| **Suporte e Windows** | Máquinas virtuais com Active Directory: usuários, senhas, permissões, políticas de grupo, unidade de rede ausente e diagnóstico de DNS. | [Laboratórios práticos de suporte](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte) |
-| **Redes — Cisco Networking Academy** | Atividades no Packet Tracer: rede doméstica, DHCP, Wi-Fi e testes de acesso a um servidor web. | [Laboratórios Cisco](https://github.com/jardelluizoficial/cisco-networking-labs) |
-| **Computação em Nuvem — Faculdade** | Práticas de Redes de Computadores: rede local, comunicação entre sub-redes e diagnóstico de gateway. | [Trabalhos acadêmicos](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade) |
-
-## Por onde começar?
-
-**Está começando em redes?** O laboratório de [dois computadores e um switch](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade/tree/main/redes-de-computadores/01-lan-packet-tracer) mostra uma rede local simples, do cabeamento ao teste de comunicação.
-
-**Quer conhecer minha prática de suporte?** Veja o [laboratório de Active Directory e Windows](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/active-directory), com os exercícios e as capturas organizados por assunto.
-
-**Quer ir direto ao diagnóstico?** Estes casos mostram o sintoma, os testes, a correção e a validação:
-
-- [Unidade de rede ausente: acesso direto ao compartilhamento e recuperação do mapeamento](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/blob/main/active-directory/README.md#incidente-unidade-de-rede).
-- [DNS incorreto: ping funciona, consulta de nome falha e a configuração do cliente é corrigida](https://github.com/jardelluizoficial/laboratorios-praticos-de-suporte/tree/main/diagnostico-dns).
-- [Gateway incorreto: comunicação local funciona, mas outra sub-rede fica inacessível](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade/blob/main/redes-de-computadores/02-tcpip-sub-redes/docs/incidente-gateway.md).
+- **[Falha de DNS no Windows](https://github.com/jardelluizoficial/sistemas-operacionais/blob/main/diagnostico-dns/README.md)** · O cliente alcançava o servidor por IP. Usei `nslookup` para investigar a falha de resolução de nomes e validei a correção no Windows 11.
+- **[PCs sem IP em uma rede local](https://github.com/jardelluizoficial/redes-de-computadores/blob/main/criar-uma-lan/README.md)** · Corrigi a conexão na interface do roteador e confirmei a atribuição de IP por DHCP, a comunicação com a impressora e o acesso HTTP.
 
 ## O que estou estudando
 
-- **Redes:** trilha de Técnico em Redes da Cisco Networking Academy, em andamento.
-- **Faculdade:** Computação em Nuvem na Anhanguera, com práticas da disciplina de Redes de Computadores.
-- **Suporte:** Windows Server, Windows 11, Active Directory e diagnóstico em laboratórios com VirtualBox.
-
-Meu caminho de longo prazo passa por **cloud, segurança e inteligência artificial**. Neste momento, estou fortalecendo os fundamentos e a prática para atuar em suporte.
-
----
-
-Os registros deste portfólio são de ambientes de estudo e simulação. A documentação diferencia o que foi testado, o resultado observado e os pontos que ainda exigem investigação.
-
-[Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/jardelluizcloud/).
+- **Redes e suporte:** Cisco Networking Academy, Windows, Active Directory e diagnóstico de conectividade.
+- **Programação:** lógica e exercícios em C. [Repositório de estudos](https://github.com/jardelluizoficial/programacao).
