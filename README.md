@@ -11,7 +11,7 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a
 | **[Sistemas Operacionais](https://github.com/jardelluizoficial/sistemas-operacionais)** | Windows Server e Windows 11 em máquinas virtuais. Contas e permissões no Active Directory, mapeamento de unidade via GPO e diagnóstico de DNS. |
 | **[Redes de Computadores](https://github.com/jardelluizoficial/redes-de-computadores)** | Práticas no Cisco Packet Tracer com redes locais, DHCP, Wi-Fi, NAT e testes de conectividade com `ping` e `tracert`. |
 | **[Trabalhos Práticos da Faculdade](https://github.com/jardelluizoficial/trabalhos-praticos-faculdade)** | Roteamento entre sub-redes IPv4 e IPv6 e análise de tráfego ICMP e HTTP, com topologias e evidências. |
-| **[Programação](https://github.com/jardelluizoficial/programacao)** | Estudos de lógica de programação e prática com a linguagem C. |
+| **[Programação](https://github.com/jardelluizoficial/programacao)** | Estudos de lógica de programação e prática com a linguagem C. Futuro estudante de Python |
 
 ## Diagnósticos passo a passo
 
