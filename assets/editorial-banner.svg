@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Jardel Luiz — Computação em Nuvem</title><desc id="desc">Redes, Sistemas e Programação. Aprender, construir e documentar.</desc>
+<rect width="1200" height="400" fill="#FFF3DF"/>
+<path d="M865 0H1200V340H1105V100H865Z" fill="#FF6500"/>
+<rect x="980" y="245" width="95" height="95" fill="#254DFF"/>
+<g fill="#111111" font-family="Arial,Helvetica,sans-serif">
+<text x="40" y="35" font-size="17" font-weight="700" letter-spacing="4">TECNOLOGIA EM CONSTRUÇÃO</text>
+<text x="36" y="158" font-size="142" font-weight="900" letter-spacing="-8">Jardel</text>
+<text x="36" y="275" font-size="142" font-weight="900" letter-spacing="-8">Luiz.</text>
+<text x="42" y="319" font-size="33" font-weight="700">Computação em Nuvem</text>
+<text x="43" y="349" font-size="21">Redes / Sistemas / Programação</text>
+<path d="M40 365H1160" stroke="#111111" stroke-width="2"/>
+<text x="43" y="389" font-size="15" font-weight="700" letter-spacing="3">APRENDER. CONSTRUIR. DOCUMENTAR.</text>
+</g></svg>
