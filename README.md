@@ -1,8 +1,10 @@
 <h1 align="center">Jardel Luiz</h1>
-<p align="center"><strong>Computação em Nuvem · Suporte de TI · Redes de Computadores</strong></p>
+<p align="center"><strong>Computação em Nuvem · Redes · Sistemas Operacionais</strong></p>
 <p align="center"><a href="https://www.linkedin.com/in/jardelluizcloud/">LinkedIn</a> · <a href="https://github.com/jardelluizoficial?tab=repositories">Repositórios</a></p>
 
-Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a área de tecnologia, com foco em **Suporte Técnico N1**. Neste portfólio documento laboratórios de Windows e redes, da configuração inicial à validação dos testes.
+Sou estudante de **Computação em Nuvem na Anhanguera**, estou em transição de carreira e busco minha primeira oportunidade em **tecnologia**. Meus estudos são direcionados à computação em nuvem, com práticas de redes, sistemas operacionais e programação para desenvolver uma base técnica sólida.
+
+Tenho interesse em oportunidades de entrada em **Cloud, Monitoramento/NOC, QA/Testes e Suporte de TI**. Neste portfólio, compartilho meu aprendizado por meio de laboratórios e projetos, documentando configurações, diagnósticos e validação dos resultados.
 
 ## Projetos em destaque
 
@@ -20,5 +22,6 @@ Sou estudante de **Computação em Nuvem na Anhanguera** e estou migrando para a
 
 ## O que estou estudando
 
-- **Redes e suporte:** Cisco Networking Academy, Windows, Active Directory e diagnóstico de conectividade.
+- **Computação em Nuvem:** graduação em andamento na Anhanguera.
+- **Redes e sistemas operacionais:** Cisco Networking Academy, Windows, Active Directory e diagnóstico de conectividade.
 - **Programação:** lógica e exercícios em C.
